@@ -1,0 +1,7 @@
+.app-container {
+  @apply flex items-center justify-center w-screen h-screen;
+}
+
+.app-button {
+  @apply p-6 text-2xl text-white bg-green-600;
+}
